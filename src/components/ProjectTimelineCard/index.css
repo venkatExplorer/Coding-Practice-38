@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.p-img {
+  height: 40vh;
+  width: 35vw;
+}
+.link {
+  color: #0967d2;
+  font-size: 16px;
+  font-weight: 600;
+}

@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.courseCard {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #1e293b;
+}
+.h {
+  font-size: 20px;
+}
+.d {
+  font-size: 14px;
+}
+.time {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+.p {
+  font-weight: 600;
+  color: #1e293b;
+  margin-left: 5px;
+}
+.btn {
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #1e293b;
+  background-color: lightgrey;
+}
+.names {
+  display: flex;
+  flex-wrap: wrap;
+}
